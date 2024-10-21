@@ -1,0 +1,417 @@
+State:Killaura:false
+Setting:Killaura:Mode:Single
+Setting:Killaura:Filter:Range
+Setting:Killaura:Rotations:Normal
+Setting:Killaura:Random amount:4.0
+Setting:Killaura:Starting range:3.0
+Setting:Killaura:Range:3.0
+Setting:Killaura:Rotation range:5.05
+Setting:Killaura:Raycast:Normal
+Setting:Killaura:Attack delay mode:APS
+Setting:Killaura:CPS Value:18
+Setting:Killaura:Attack delay:2
+Setting:Killaura:No hit on first tick:true
+Setting:Killaura:Fail rate:2
+Setting:Killaura:Autoblock:Fake
+Setting:Killaura:While target not looking:true
+Setting:Killaura:Slowdown:Enabled
+Setting:Killaura:While hitting:false
+Setting:Killaura:Speed enabled:true
+Setting:Killaura:Keep Sprint:false
+Setting:Killaura:Move fix:Normal
+Setting:Killaura:Inventory opened:false
+Setting:Killaura:Scaffold enabled:false
+Setting:Killaura:Using breaker:false
+Setting:Killaura:Players:true
+Setting:Killaura:Animals:false
+Setting:Killaura:Monsters:false
+Setting:Killaura:Invisibles:false
+Setting:Killaura:Attack dead:false
+Setting:Killaura:Target View:Circle Lines
+State:Velocity:false
+Setting:Velocity:Mode:Packet
+Setting:Velocity:Horizontal:0
+Setting:Velocity:Vertical:0
+State:Target Strafe:false
+Setting:Target Strafe:Max range:1.8
+Setting:Target Strafe:While pressing space:false
+Setting:Target Strafe:Distance:1.9
+State:Teams:false
+State:AutoSoup:false
+Setting:AutoSoup:Health Heal:16.0
+State:AutoTool:true
+Setting:AutoTool:Back to Old Item:true
+Setting:AutoTool:Item Spoof:true
+State:Cape:true
+Setting:Cape:Cape List:Flap1
+State:Tracers:true
+State:Tickbase:false
+Setting:Tickbase:Ticks:3
+State:Fov Changer:false
+Setting:Fov Changer:Sprint FOV:80.0
+Setting:Fov Changer:Speed FOV:90.0
+State:Unflag:false
+State:Regen:false
+State:AntiInvis:false
+State:Eagle:false
+Setting:Eagle:Min delay:100.0
+Setting:Eagle:Max delay:200.0
+Setting:Eagle:Straight every block:1.0
+Setting:Eagle:Diagonal every block:1.0
+Setting:Eagle:Pitch check:true
+Setting:Eagle:Pitch:45.0
+Setting:Eagle:Only S pressed:false
+Setting:Eagle:Only sneak:false
+Setting:Eagle:Show block count:false
+State:Reach:false
+Setting:Reach:Reach:3.5
+Setting:Reach:Only Sprint:false
+Setting:Reach:Only Ground:false
+Setting:Reach:Check Water:false
+State:ChestESP:false
+State:Autoclicker:false
+Setting:Autoclicker:CPS:17
+Setting:Autoclicker:Randomization:Butterfly
+Setting:Autoclicker:Randomization Amount:2
+Setting:Autoclicker:Only Sword:false
+Setting:Autoclicker:Autoblock on Click:true
+Setting:Autoclicker:Autoblock:BlockHit
+Setting:Autoclicker:Trigger Bot:true
+State:AimAssist:false
+Setting:AimAssist:Filter:Range
+Setting:AimAssist:Range:8.0
+Setting:AimAssist:Speed:40
+Setting:AimAssist:LockView:false
+State:AutoRespawn:false
+Setting:AutoRespawn:Delay (ms):0
+State:BlockESP:false
+Setting:BlockESP:Mode:Percentage
+Setting:BlockESP:Show Manual:true
+Setting:BlockESP:Show BedAura:true
+State:FlagDetector:false
+State:FastUse:false
+State:WTap:true
+Setting:WTap:Mode:Spoof
+State:Criticals:false
+Setting:Criticals:Mode:Packet
+State:Antibot:true
+Setting:Antibot:Ticks existed:30
+Setting:Antibot:Advanced detection:true
+Setting:Antibot:Debug:false
+Setting:Antibot:Entity spawn delay:false
+Setting:Antibot:Delay:1
+Setting:Antibot:Pit spawn:false
+Setting:Antibot:Tab list:true
+State:CustomUI:true
+Setting:CustomUI:Chat Background:False
+Setting:CustomUI:Scoreboard X:0.0
+Setting:CustomUI:Scoreboard Y:-7.85
+Setting:CustomUI:Chat X:-7.85
+Setting:CustomUI:Chat Y:35.95
+Setting:CustomUI:No Camera Clip:false
+Setting:CustomUI:Motion Blur:true
+Setting:CustomUI:Kill Sound:true
+Setting:CustomUI:Motion Blur Strength:7.0
+Setting:CustomUI:Sound Module:QuickMacro
+Setting:CustomUI:Sound Pitch:3.0
+Setting:CustomUI:Background Type:Default Blur
+State:Sprint:true
+Setting:Sprint:Mode:Legit
+State:Fly:false
+Setting:Fly:Mode:Vanilla
+Setting:Fly:Vanilla Mode:Motion
+Setting:Fly:Vanilla Speed:0.2
+Setting:Fly:Vanilla Vertical Speed:0.2
+Setting:Fly:NCP Mode:Old
+Setting:Fly:NCP Speed:1.0
+Setting:Fly:Damage:false
+Setting:Fly:Velocity Mode:Bow
+Setting:Fly:Legit:false
+Setting:Fly:Automated:false
+Setting:Fly:CrisAC Speed:1.5
+Setting:Fly:CrisAC Vertical Speed:1.0
+State:Spoofer:false
+State:KillSult:true
+State:Speed:false
+Setting:Speed:Mode:Hypixel
+Setting:Speed:Vanilla speed:1.0
+Setting:Speed:Autojump:true
+Setting:Speed:NCP Mode:Updated Hop
+Setting:Speed:Damage Boost:true
+Setting:Speed:Watchdog Mode:Strafe
+Setting:Speed:Fast:true
+Setting:Speed:Mult:1.24
+Setting:Speed:Speed pot mult:1.24
+Setting:Speed:Attribute speed offground:0.023
+Setting:Speed:Full scaffold:false
+Setting:Speed:All directions sprint:true
+Setting:Speed:Min hurttime:10
+Setting:Speed:Timer mode:Bypass
+Setting:Speed:Custom timer:1.0
+Setting:Speed:Fast Speed Ticks:3.0
+Setting:Speed:Disable When Flag:true
+State:Longjump:false
+Setting:Longjump:Mode:Vanilla
+Setting:Longjump:Motion Y:0.4
+Setting:Longjump:Speed:1.0
+Setting:Longjump:Stop movement:false
+Setting:Longjump:Waiting ticks:10
+Setting:Longjump:Horizontal move:Ignore
+Setting:Longjump:Horizontal boost amount:0.2
+Setting:Longjump:After velocity Y boost:0.0
+State:InvMove:false
+Setting:InvMove:No sprint:Disabled
+Setting:InvMove:Blink:false
+State:Noslow:false
+Setting:Noslow:Sword method:Vanilla
+Setting:Noslow:Comsumable method:Vanilla
+Setting:Noslow:Forward:1.0
+Setting:Noslow:Strafe:1.0
+Setting:Noslow:Blink ticks:5
+Setting:Noslow:Allow sprinting:false
+State:Safewalk:false
+Setting:Safewalk:Offground:false
+Setting:Safewalk:Motion X:0.8
+State:Step:false
+Setting:Step:Mode:NCP
+Setting:Step:Height:1.0
+Setting:Step:Timer:1.0
+State:FPSDisplay:true
+Setting:FPSDisplay:Pos X:454.0
+Setting:FPSDisplay:Pos Y:3.0
+Setting:FPSDisplay:Background:Disabled
+State:StaffDetector:false
+State:Chest Stealer:false
+Setting:Chest Stealer:Delay:1
+Setting:Chest Stealer:Instant:false
+Setting:Chest Stealer:Filter:true
+Setting:Chest Stealer:Autoclose:true
+Setting:Chest Stealer:Gui detect:true
+State:Manager:false
+Setting:Manager:Instant:true
+Setting:Manager:No Inventory Check:false
+Setting:Manager:Delay:1
+Setting:Manager:Sword slot:0
+Setting:Manager:Axe slot:2
+Setting:Manager:Pickaxe slot:3
+Setting:Manager:Shovel slot:4
+Setting:Manager:Block stack slot:1
+Setting:Manager:Golden apples slot:5
+State:Nofall:false
+Setting:Nofall:Mode:Packet
+Setting:Nofall:Suspend all packets:true
+Setting:Nofall:Ignore void:true
+State:Antivoid:false
+Setting:Antivoid:Mode:Flag
+Setting:Antivoid:Stop horizontal move:false
+Setting:Antivoid:Bounce motion:1.5
+Setting:Antivoid:Min fall dist:3.5
+State:TargetColor:false
+Setting:TargetColor:Red:255.0
+Setting:TargetColor:Green:255.0
+Setting:TargetColor:Blue:255.0
+Setting:TargetColor:Alpha:49.0
+State:Targets:false
+Setting:Targets:Teams:false
+Setting:Targets:Player:false
+Setting:Targets:Animals:false
+Setting:Targets:Mobs:false
+Setting:Targets:Friends:false
+State:Timer:false
+Setting:Timer:Speed:0.5
+State:Fastplace:true
+Setting:Fastplace:Delay:Every tick
+State:Phase:false
+Setting:Phase:Mode:Grim
+State:Notification:true
+Setting:Notification:Pos X:450.0
+Setting:Notification:Pos Y:4.0
+State:Autoplace:false
+Setting:Autoplace:Place under while offground:false
+State:Scaffold:false
+Setting:Scaffold:Motion X:0.8
+Setting:Scaffold:Rotation Mode:Strict
+Setting:Scaffold:Fast Scaffold:Edge
+Setting:Scaffold:Fast Scaffold Motion X:0.8
+Setting:Scaffold:Multi-Place:Disabled
+Setting:Scaffold:Auto Swap:true
+Setting:Scaffold:Cancel KnockBack:false
+Setting:Scaffold:Delay on jump:true
+Setting:Scaffold:Fast on RMB:false
+Setting:Scaffold:Safewalk:true
+Setting:Scaffold:Block Count:true
+Setting:Scaffold:Silent swing:true
+Setting:Scaffold:Show Blocks:false
+Setting:Scaffold:Tower:false
+Setting:Scaffold:Block picker:Spoof
+Setting:Scaffold:Tower Mode:Disabled
+Setting:Scaffold:Block Counter:Disabled
+State:Target Strafe:false
+Setting:Target Strafe:Range:1.0
+Setting:Target Strafe:Allow speed:true
+Setting:Target Strafe:Allow fly:false
+Setting:Target Strafe:Allow manual:false
+Setting:Target Strafe:Strafe around:true
+State:Breaker:false
+Setting:Breaker:Break mode:Legit
+Setting:Breaker:Break speed:0
+Setting:Breaker:FOV:360
+Setting:Breaker:Range:1
+Setting:Breaker:Rate Second:0
+Setting:Breaker:Allow aura:true
+Setting:Breaker:Break near block:false
+Setting:Breaker:Cancel knockback:false
+Setting:Breaker:Disable bhop:false
+Setting:Breaker:Disable break effects:false
+Setting:Breaker:Ground spoof:false
+Setting:Breaker:Ignore slow:false
+Setting:Breaker:Only while visible:false
+Setting:Breaker:Render block outline:true
+Setting:Breaker:Send animations:false
+Setting:Breaker:Silent swing:false
+State:AutoPot:true
+State:AutoBridge:false
+Setting:AutoBridge:Mode:Sprint
+Setting:AutoBridge:Keep Y:true
+Setting:AutoBridge:Always rotate offground:false
+Setting:AutoBridge:Ninja bridge:false
+Setting:AutoBridge:Eagle:false
+Setting:AutoBridge:Freelook:true
+Setting:AutoBridge:Block picker:Switch
+State:Breaker:false
+Setting:Breaker:Range:5
+Setting:Breaker:Rotate:true
+Setting:Breaker:Move fix:false
+Setting:Breaker:Hypixel:false
+State:Crosshair:false
+Setting:Crosshair:Pos X:95.0
+Setting:Crosshair:Pos Y:100.0
+Setting:Crosshair:Color:Black
+Setting:Crosshair:Offset:0.0
+Setting:Crosshair:Height:11.25
+Setting:Crosshair:Width:19.75
+Setting:Crosshair:Thickness:2.0
+Setting:Crosshair:Outline:true
+Setting:Crosshair:Outline Thickness:0.5
+State:Watermark:true
+Setting:Watermark:Pos X:10.0
+Setting:Watermark:Pos Y:11.0
+Setting:Watermark:Mode:New
+State:Module List:true
+Setting:Module List:Pos X:16.0
+Setting:Module List:Pos Y:34.0
+Setting:Module List:Mode:New
+Setting:Module List:Show Background:True
+Setting:Module List:Font:Minecraft
+Setting:Module List:Animation duration:250
+Setting:Module List:Vertical spacing:10.5
+Setting:Module List:Box:false
+Setting:Module List:Extra width:0.5
+Setting:Module List:Box alpha:100
+Setting:Module List:Left outline:false
+Setting:Module List:Right outline:false
+Setting:Module List:Top outline:false
+Setting:Module List:Bottom outline:false
+Setting:Module List:Shadow:true
+Setting:Module List:Important Only:true
+State:Ingame Info:true
+Setting:Ingame Info:Font:Product sans
+Setting:Ingame Info:BPS:true
+Setting:Ingame Info:Balance:true
+State:Theme:false
+Setting:Theme:Color:Gradient
+Setting:Theme:Red:100
+Setting:Theme:Green:125
+Setting:Theme:Blue:0
+Setting:Theme:Red 2:0
+Setting:Theme:Green 2:255
+Setting:Theme:Blue 2:5
+Setting:Theme:Saturation:0.9
+Setting:Theme:Brightness:0.9
+State:ClickGUI:false
+Setting:ClickGUI:Gui Style:Drop Down
+Setting:ClickGUI:Color:Client theme
+Setting:ClickGUI:Red:0
+Setting:ClickGUI:Green:0
+Setting:ClickGUI:Blue:255
+Setting:ClickGUI:Red 2:0
+Setting:ClickGUI:Green 2:255
+Setting:ClickGUI:Blue 2:255
+Setting:ClickGUI:Red 3:0
+Setting:ClickGUI:Green 3:255
+Setting:ClickGUI:Blue 3:255
+Setting:ClickGUI:Saturation:0.9
+Setting:ClickGUI:Brightness:0.9
+Setting:ClickGUI:Box on hover:false
+Setting:ClickGUI:Box on settings:false
+State:ESP:true
+Setting:ESP:Box Full:false
+Setting:ESP:Box Outline:false
+Setting:ESP:Health Bar:true
+Setting:ESP:2D Thick ESP:false
+Setting:ESP:Fill:true
+Setting:ESP:Red:3
+Setting:ESP:Green:7
+Setting:ESP:Blue:0
+Setting:ESP:2D Fine ESP:false
+Setting:ESP:Red 1:0
+Setting:ESP:Green 1:0
+Setting:ESP:Blue 1:0
+Setting:ESP:Red 2:0
+Setting:ESP:Blue 2:0
+Setting:ESP:Green 2:0
+Setting:ESP:Line width:0.75
+Setting:ESP:Alpha:0.8
+Setting:ESP:Render invisibles:false
+State:Blink:false
+Setting:Blink:Overlay:false
+Setting:Blink:Show initial pos:true
+Setting:Blink:Pulse:false
+Setting:Blink:Pulse delay:1000.0
+State:Chams:false
+State:Animations:true
+Setting:Animations:X:0.15
+Setting:Animations:Y:-0.05
+Setting:Animations:Z:-0.15
+Setting:Animations:Swing slowdown:1.3
+Setting:Animations:Block Animation:1.7
+Setting:Animations:Hit Animation:1.7
+State:Rotations:true
+Setting:Rotations:Smooth:true
+State:TargetHUD:true
+Setting:TargetHUD:Pos X:552.0
+Setting:TargetHUD:Pos Y:346.0
+Setting:TargetHUD:Mode:Adjust
+Setting:TargetHUD:Rounded Pixels:11
+Setting:TargetHUD:Font:Minecraft
+Setting:TargetHUD:Animation duration:400
+Setting:TargetHUD:Healh bar delay:100
+Setting:TargetHUD:Rounded health:true
+Setting:TargetHUD:Shadow:true
+State:Freelook:false
+Setting:Freelook:Mode:Third Person
+State:Time Changer:false
+Setting:Time Changer:Custom time:18000.0
+State:Fullbright:true
+State:NameProtect:false
+State:Xray:false
+State:NoHurtcam:true
+State:Disabler:false
+Setting:Disabler:Mode:Watchdog
+Setting:Disabler:Strict:false
+Setting:Disabler:Blink ticks:10
+Setting:Disabler:Delay:500
+Setting:Disabler:S08:false
+Setting:Disabler:Balance:true
+Setting:Disabler:No Sprint:false
+Setting:Disabler:No Sneak:false
+Setting:Disabler:Silent teleport accept:false
+Setting:Disabler:Silent range:8.0
+Setting:Disabler:Disable Motion Checks:true
+Setting:Disabler:Lobby Check:true
+Setting:Disabler:Disable Inventory Checks:false
+State:Anticheat:false
+State:Autoplay:false
+Setting:Autoplay:Mode:Solo insane
+Setting:Autoplay:Delay:1500
+State:Self Destruct:false
